@@ -36,7 +36,7 @@ body{
   font-size: 20px;
   color: white;
 }
-.button{
+button{
 
       height: 50px;
       width: 200px;
@@ -47,7 +47,7 @@ body{
       border-radius: 4px;
       cursor: pointer;
 }
-.button:hover{
+button:hover{
   background-color: white;
   color: blueviolet;
 }
